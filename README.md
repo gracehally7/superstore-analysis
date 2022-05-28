@@ -23,7 +23,8 @@ Additional manipulation of data included converting the sales and profit columns
 
 After the data quality check, the clean data was imported into Microsoft Power BI  to build visualization and help to better understand the business problem
 ![image](https://user-images.githubusercontent.com/99291785/170809616-470bddd3-a2d3-496f-a15e-f369d2194f8d.png)
-"C:\Users\HP\Downloads\superstore dashboard pictire.jpeg"
+![superstore dashboard pictire](https://user-images.githubusercontent.com/99291785/170810189-6d9418d6-1aff-4526-9962-aa7f3709f385.jpeg)
+
 
 ## RESULTS
 The dataset used for this analysis contains 9,995 records and 21 variables. There were seven missing values which were excluded from the analysis due to the fact they accounted for less than 0.1% of the total dataset and would have no significant impact on the overall data.
